@@ -1,4 +1,4 @@
-# [SeekingCitizenship](https://devpost.com/software/seeking-citizenship) 
+# [Seeking Citizenship](https://devpost.com/software/seeking-citizenship) 
 
 A web app that simplifies the U.S. naturalization process.
 
