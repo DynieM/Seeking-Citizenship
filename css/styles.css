@@ -1,0 +1,239 @@
+#title {
+  background-color: #005FB8;
+  color: #fff;
+}
+
+#Forum_Title {
+  height: 45px;
+}
+
+#bottom-container {
+  background-color: white;
+}
+
+html,
+body {
+  width: 100%;
+  height: 100%;
+  margin: 0px;
+  padding: 0px;
+  overflow-x: hidden;
+}
+
+.top-row {
+  padding: 1rem 25% 1rem;
+}
+
+.earth {
+  height: 40px;
+  width: 40px;
+}
+
+.type_box {
+  width: 95%;
+  display: inline-block;
+}
+
+.chatbtn {
+  display: inline-block;
+  width: 45px;
+  height: 45px;
+}
+
+.heartbtn {
+  display: inline-block;
+  width: 42px;
+  height: 42px;
+  margin-top: 5px;
+  margin-left: 5px;
+}
+
+.users {
+  width: 32px;
+  width: 36px;
+  margin: 8px;
+}
+
+/*Step 1 Image*/
+.stepOne-image {
+  width: 200px;
+  height: 200px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.wrld_Icon {
+  width: 85px;
+  height: 75px;
+  float: left;
+}
+
+.home_Icon {
+  width: 70px;
+  height: 70px;
+}
+
+.arrow_Icon {
+  width: 65px;
+  height: 75px;
+  float: right;
+  display: inline-block;
+}
+
+.accordionArrow {
+  width: 25px;
+  height: 35px;
+}
+
+.htext {
+  color: green;
+  font-size: 30px;
+  text-align: center;
+  margin: auto;
+}
+
+/* Navigation Bar */
+.navbar {
+  padding: 0 0 0;
+}
+
+.navbar-brand {
+  font-family: "Ubuntu";
+  font-size: 2.5rem;
+}
+
+.nav-item {
+  padding: 0 15px 0;
+}
+
+.nav-link {
+  font-size: 1.2rem;
+  font-family: "Montserrat";
+}
+
+
+.square-box {
+  max-width: 600px;
+  min-height: 600px;
+  border: 1px #333;
+}
+
+.S1 {
+  position: fixed;
+  margin-left: 20%;
+  margin-top: 8%;
+  z-index: 2;
+}
+
+.S2 {
+  position: fixed;
+  margin-left: 33%;
+  margin-top: 24%;
+  z-index: 2;
+}
+
+.S3 {
+  position: fixed;
+  margin-left: 47%;
+  margin-top: 8%;
+  z-index: 2;
+}
+
+.S4 {
+  position: fixed;
+  margin-left: 60%;
+  margin-top: 24%;
+  z-index: 2;
+}
+
+.S5 {
+  position: fixed;
+  margin-left: 73%;
+  margin-top: 8%;
+  z-index: 2;
+}
+
+
+
+.L1 {
+  position: fixed;
+  margin-left: 18%;
+  margin-top: 11%;
+}
+
+.L2 {
+  position: fixed;
+  margin-left: 31%;
+  margin-top: 12%;
+}
+
+/* Hello */
+.L3 {
+  position: fixed;
+  margin-left: 45%;
+  margin-top: 12%;
+}
+
+.L4 {
+  position: fixed;
+  margin-left: 59%;
+  margin-top: 12%;
+}
+
+.L5 {
+  position: fixed;
+  margin-left: 52%;
+  margin-top: 15%;
+}
+
+.L6 {
+  position: fixed;
+  margin-left: 65%;
+  margin-top: 15%;
+}
+
+.exclamation-mark {
+  position: fixed;
+  margin-left: 39%;
+  margin-top: 15%;
+  z-index: 5;
+}
+
+
+
+
+.accordion {
+  margin: 1rem 1rem 1rem;
+}
+
+.fingerprint-Icon {
+  width: 70px;
+  height: 80px;
+}
+
+.biometric-page {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  font-family: "Ubuntu";
+  font-size: 30px;
+}
+
+.bio-icons {
+  width: 40px;
+  height: 40px;
+  margin-left: 50px;
+}
+
+.alert {
+  position: fixed;
+  margin-left: 57%;
+  margin-top: 13%;
+  z-index: 5;
+}
+
+.arrow{
+  position: fixed;
+  margin-left: 90%;
+}
