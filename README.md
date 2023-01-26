@@ -14,7 +14,7 @@ A web app that simplifies the U.S. naturalization process.
 Seeking Citizenship is a web-based application that simplifies the naturalization process of becoming a U.S. citizen by guiding the user step by step through documentation while providing tips and resources. It also promotes building community and support groups by encouraging individuals to connect with others going through similar processes via social forums.
 
 ## Motivation
-This project was worked on during ShellHacks 2022, the largest hackathon in Florida, over a course of 48 hours in a group of 4.
+This project was worked on during ShellHacks 2022, the largest hackathon in Florida, over a course of 48 hours in a group of 4. I played the role of Front-End.
 
 ## Features
 - Selecting a langauge to manuever the application in.
